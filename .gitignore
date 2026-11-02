@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# The supplied clip, the reference, intermediates, review frames and drafts
+# (rebuild with tools/, given the clip; the final master lives in deliverables/)
+raw/
+ref/
+build/
+renders/
+film/renders/
+
+# Built media the composition plays (tools/build_4k60.py, frame_aroll.py, mix_audio.py)
+film/assets/aroll.mp4
+film/assets/aroll4k.mp4
+film/assets/cut?.mp4
+film/assets/mix.wav
+film/assets/audio/
+
+# Akaike's marks belong to Akaike (tools/fetch_logo.py)
+film/assets/logo*.svg
+
+# Tool state and caches
+.hyperframes/
+__pycache__/
+*.log
+.DS_Store
+Thumbs.db

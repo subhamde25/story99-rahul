@@ -1,0 +1,5 @@
+# The final master goes through Git LFS
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+
+# Keep shell scripts runnable on every platform
+*.sh text eol=lf
