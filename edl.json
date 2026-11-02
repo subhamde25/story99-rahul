@@ -1,0 +1,672 @@
+{
+"fps": 24,
+"lines": [
+{
+"id": "agency",
+"layout": "full",
+"text": "Am I going to lose my agency?",
+"r": [
+[
+88.625,
+90.22
+]
+],
+"gap": 0.25
+},
+{
+"id": "agents",
+"layout": "full",
+"text": "Because now AI agents come into the picture.",
+"r": [
+[
+90.62,
+93.57
+]
+],
+"gap": 0.1
+},
+{
+"id": "everything",
+"layout": "full",
+"text": "They'll be able to do everything.",
+"r": [
+[
+94.12,
+96.95
+]
+],
+"gap": 0.45
+},
+{
+"id": "title",
+"layout": "title",
+"text": "",
+"r": [],
+"gap": 3.0
+},
+{
+"id": "stigma",
+"layout": "full",
+"text": "At least in US, there is a lot of stigma around AI.",
+"r": [
+[
+51.05,
+52.28
+],
+[
+52.51,
+54.54
+]
+],
+"gap": 0.15
+},
+{
+"id": "genpop",
+"layout": "fear",
+"text": "I'm talking about the general population.",
+"r": [
+[
+56.55,
+57.5
+],
+[
+58.52,
+59.96
+]
+],
+"gap": 0.12
+},
+{
+"id": "notds",
+"layout": "fear",
+"text": "I'm not talking about the small data science community itself.",
+"r": [
+[
+60.05,
+63.55
+]
+],
+"gap": 0.2
+},
+{
+"id": "fearfrom",
+"layout": "fear",
+"text": "The fear around AI is stemming from",
+"r": [
+[
+67.25,
+69.66
+]
+]
+},
+{
+"id": "workforce",
+"layout": "fear",
+"text": "people who are entering the workforce, or even those who are working in the companies,",
+"r": [
+[
+74.62,
+75.51
+],
+[
+75.8,
+78.79
+],
+[
+78.99,
+79.39
+],
+[
+79.77,
+80.11
+],
+[
+80.37,
+81.74
+]
+]
+},
+{
+"id": "afraid",
+"layout": "fear",
+"text": "who are afraid around, you know, what is going to happen to us.",
+"r": [
+[
+81.74,
+84.74
+],
+[
+85.16,
+85.98
+]
+],
+"gap": 0.35
+},
+{
+"id": "pov",
+"layout": "full",
+"text": "My point of view there, I don't think humans will be out of the loop.",
+"r": [
+[
+100.73,
+101.91
+],
+[
+103.64,
+105.16
+],
+[
+106.15,
+107.51
+]
+],
+"gap": 0.2
+},
+{
+"id": "role",
+"layout": "loop",
+"text": "But the role of the humans is going to change,",
+"r": [
+[
+108.3,
+110.58
+]
+]
+},
+{
+"id": "outputs",
+"layout": "loop",
+"text": "where they will have to look at AI outputs,",
+"r": [
+[
+110.58,
+111.79
+],
+[
+112.33,
+112.73
+],
+[
+113.07,
+113.98
+]
+]
+},
+{
+"id": "feedback",
+"layout": "loop",
+"text": "give corrective feedback,",
+"r": [
+[
+113.98,
+114.33
+],
+[
+114.6,
+115.36
+],
+[
+115.84,
+116.78
+]
+]
+},
+{
+"id": "improve",
+"layout": "loop",
+"text": "keep improving AI algorithms.",
+"r": [
+[
+117.02,
+118.1
+],
+[
+118.24,
+119.34
+]
+],
+"gap": 0.35
+},
+{
+"id": "organ",
+"layout": "full",
+"text": "You could also think of humans as a sense organ for AI,",
+"r": [
+[
+124.25,
+125.42
+],
+[
+126.03,
+126.73
+],
+[
+127.63,
+128.03
+],
+[
+128.5,
+130.0
+]
+],
+"gap": 0.1
+},
+{
+"id": "world",
+"layout": "sense",
+"text": "to know what is happening in the real world.",
+"r": [
+[
+130.62,
+132.8
+]
+],
+"gap": 0.15
+},
+{
+"id": "events",
+"layout": "sense",
+"text": "Some events have happened,",
+"r": [
+[
+133.39,
+133.97
+],
+[
+134.19,
+135.85
+]
+]
+},
+{
+"id": "disrupt",
+"layout": "sense",
+"text": "certain disruptions have happened,",
+"r": [
+[
+136.12,
+137.6
+]
+]
+},
+{
+"id": "things",
+"layout": "sense",
+"text": "certain things that have happened that are not modeled into AI,",
+"r": [
+[
+137.6,
+138.8
+],
+[
+139.09,
+140.64
+]
+]
+},
+{
+"id": "context",
+"layout": "sense",
+"text": "which is where the human context comes in,",
+"r": [
+[
+140.64,
+142.74
+]
+],
+"gap": 0.1
+},
+{
+"id": "provides",
+"layout": "reco",
+"text": "where human provides the context that, hey, you know,",
+"r": [
+[
+142.72,
+143.02
+],
+[
+143.45,
+144.98
+]
+]
+},
+{
+"id": "reco",
+"layout": "reco",
+"text": "this recommendation that you gave was not useful for me",
+"r": [
+[
+144.98,
+147.92
+]
+]
+},
+{
+"id": "reasons",
+"layout": "reco",
+"text": "because of these, these, these reasons.",
+"r": [
+[
+148.45,
+150.36
+]
+],
+"gap": 0.7
+},
+{
+"id": "corner",
+"layout": "full",
+"text": "So human needs to be in place to catch those corner cases",
+"r": [
+[
+154.95,
+157.08
+],
+[
+157.22,
+158.42
+]
+]
+},
+{
+"id": "works",
+"layout": "full",
+"text": "and make sure that AI works really well.",
+"r": [
+[
+158.42,
+159.45
+],
+[
+160.06,
+160.47
+],
+[
+160.67,
+162.12
+]
+],
+"gap": 0.3
+},
+{
+"id": "jobloss",
+"layout": "full",
+"text": "In terms of job loss happening,",
+"r": [
+[
+166.5,
+167.69
+],
+[
+170.84,
+172.2
+]
+],
+"gap": 0.1
+},
+{
+"id": "waylook",
+"layout": "scale",
+"text": "the way I look at is that for any companies that are scaling,",
+"r": [
+[
+173.6,
+174.98
+],
+[
+175.4,
+177.78
+]
+],
+"gap": 0.1
+},
+{
+"id": "objective",
+"layout": "scale",
+"text": "your business objective is scaling.",
+"r": [
+[
+181.98,
+183.36
+]
+],
+"gap": 0.15
+},
+{
+"id": "scale",
+"layout": "scale",
+"text": "AI helps scale really well.",
+"r": [
+[
+184.09,
+186.46
+]
+],
+"gap": 0.2
+},
+{
+"id": "shifting",
+"layout": "shift",
+"text": "People's role itself is shifting from what they need to do day to day,",
+"r": [
+[
+187.76,
+190.09
+],
+[
+190.54,
+191.93
+]
+]
+},
+{
+"id": "making",
+"layout": "shift",
+"text": "to making sure that AI is doing those things day to day,",
+"r": [
+[
+192.41,
+192.71
+],
+[
+193.0,
+195.76
+]
+]
+},
+{
+"id": "strategic",
+"layout": "shift",
+"text": "and then they get a little bit more into the strategic role.",
+"r": [
+[
+195.76,
+198.08
+]
+],
+"gap": 0.45
+},
+{
+"id": "analytics",
+"layout": "full",
+"text": "If we look at the world of analytics,",
+"r": [
+[
+418.62,
+421.1
+]
+],
+"gap": 0.1
+},
+{
+"id": "notposs",
+"layout": "full",
+"text": "what was not possible before is",
+"r": [
+[
+424.2,
+426.22
+]
+],
+"gap": 0.1
+},
+{
+"id": "stake",
+"layout": "ask",
+"text": "business stakeholders getting insightful reports",
+"r": [
+[
+426.58,
+428.61
+],
+[
+429.15,
+431.14
+]
+]
+},
+{
+"id": "purely",
+"layout": "ask",
+"text": "purely by giving a natural language instruction,",
+"r": [
+[
+431.2,
+434.06
+]
+]
+},
+{
+"id": "intern",
+"layout": "ask",
+"text": "like they tell some analyst or an intern,",
+"r": [
+[
+434.12,
+434.94
+],
+[
+435.0,
+437.708
+]
+]
+},
+{
+"id": "senior",
+"layout": "ask",
+"text": "not even a senior manager.",
+"r": [
+[
+437.708,
+439.12
+]
+],
+"gap": 0.25
+},
+{
+"id": "why1",
+"layout": "question",
+"text": "Why are certain marketing campaigns not working?",
+"r": [
+[
+442.75,
+443.62
+],
+[
+443.89,
+445.36
+]
+],
+"gap": 0.2
+},
+{
+"id": "why2",
+"layout": "question",
+"text": "Why revenue is dropping in, let's say, a certain region?",
+"r": [
+[
+446.92,
+448.42
+],
+[
+448.71,
+449.98
+]
+]
+},
+{
+"id": "what2",
+"layout": "question",
+"text": "What can we do about it?",
+"r": [
+[
+449.98,
+451.2
+]
+],
+"gap": 0.2
+},
+{
+"id": "nosystem",
+"layout": "question",
+"text": "There was no application, not a system or a solution in place,",
+"r": [
+[
+453.25,
+454.42
+],
+[
+454.6,
+456.8
+]
+]
+},
+{
+"id": "answer",
+"layout": "question",
+"text": "which can automatically answer these questions in an insightful way,",
+"r": [
+[
+456.8,
+458.43
+],
+[
+458.72,
+460.74
+]
+]
+},
+{
+"id": "action",
+"layout": "question",
+"text": "and even take action on that.",
+"r": [
+[
+460.74,
+462.04
+]
+],
+"gap": 0.2
+},
+{
+"id": "now",
+"layout": "full",
+"text": "Now it is possible.",
+"r": [
+[
+462.5,
+463.55
+]
+],
+"gap": 0.8
+},
+{
+"id": "end",
+"layout": "end",
+"text": "",
+"r": [],
+"gap": 3.6
+}
+]
+}
